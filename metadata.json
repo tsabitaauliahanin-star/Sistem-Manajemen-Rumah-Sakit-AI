@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Manajemen Rumah Sakit AI",
+  "description": "Agen AI Hierarkis untuk manajemen rumah sakit, menangani pasien, penjadwalan, informasi medis, dan administrasi menggunakan Gemini Function Calling.",
+  "requestFramePermissions": []
+}
